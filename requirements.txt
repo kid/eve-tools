@@ -1,0 +1,6 @@
+-e svn+http://code.djangoproject.com/svn/django/trunk#egg=django
+-e hg+http://bitbucket.org/andrewgodwin/south/#egg=south
+-e hg+http://bitbucket.org/ubernostrum/django-registration/#egg=django-registration
+-e hg+http://bitbucket.org/ubernostrum/django-profiles/#egg=django-profiles
+-e git://github.com/robhudson/django-debug-toolbar#egg=django-debug-toolbar
+-e svn+http://django-eve-proxy.googlecode.com/svn/trunk/django-eve-proxy#egg=eve_proxy
